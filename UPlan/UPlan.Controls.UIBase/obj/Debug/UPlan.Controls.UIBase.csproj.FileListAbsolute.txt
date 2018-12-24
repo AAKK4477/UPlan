@@ -1,0 +1,7 @@
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Controls.UIBase\obj\Debug\UPlan.Controls.UIBase.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Controls.UIBase\obj\Debug\UPlan.Controls.UIBase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Controls.UIBase\obj\Debug\UPlan.Controls.UIBase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Controls.UIBase\bin\Debug\UPlan.Controls.UIBase.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Controls.UIBase\bin\Debug\UPlan.Controls.UIBase.pdb
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Controls.UIBase\obj\Debug\UPlan.Controls.UIBase.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Controls.UIBase\obj\Debug\UPlan.Controls.UIBase.pdb

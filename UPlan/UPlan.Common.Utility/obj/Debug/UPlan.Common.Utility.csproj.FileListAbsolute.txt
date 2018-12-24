@@ -1,0 +1,11 @@
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Common.Utility\obj\Debug\UPlan.Common.Utility.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Common.Utility\obj\Debug\UPlan.Common.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\obj\Debug\UPlan.Common.Utility.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\obj\Debug\UPlan.Common.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\bin\Debug\UPlan.Common.Utility.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\bin\Debug\UPlan.Common.Utility.pdb
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\bin\Debug\UPlan.Common.GlobalResource.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\bin\Debug\UPlan.Common.GlobalResource.pdb
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\obj\Debug\UPlan.Common.Utility.csproj.CopyComplete
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\obj\Debug\UPlan.Common.Utility.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.Utility\obj\Debug\UPlan.Common.Utility.pdb

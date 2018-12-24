@@ -1,0 +1,5 @@
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Print\bin\Debug\UPlan.Frame.Print.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Print\bin\Debug\UPlan.Frame.Print.pdb
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Print\obj\Debug\UPlan.Frame.Print.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Print\obj\Debug\UPlan.Frame.Print.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Print\obj\Debug\UPlan.Frame.Print.pdb

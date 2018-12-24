@@ -1,0 +1,2 @@
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Model\obj\Debug\UPlan.Frame.Model.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Model\obj\Debug\UPlan.Frame.Model.csproj.CoreCompileInputs.cache

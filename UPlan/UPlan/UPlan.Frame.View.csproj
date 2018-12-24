@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D2D54253-3F3B-4EE5-82BF-ADCECA2D9F77}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UPlan</RootNamespace>
+    <AssemblyName>UPlan</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EventForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventForm.designer.cs">
+      <DependentUpon>EventForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EventViewUIMrg.cs" />
+    <Compile Include="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingFormUIMrg.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormUIMrg.cs" />
+    <Compile Include="ProjectCreate.cs" />
+    <Compile Include="ProjectFileManager.cs" />
+    <Compile Include="ProjectUImrg.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecentFileServiceLogicManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="LoadingForm.resx">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UPlan.Common.GlobalResource\UPlan.Common.GlobalResource.csproj">
+      <Project>{0474d112-ef21-4a58-aba3-fe8fa7d52268}</Project>
+      <Name>UPlan.Common.GlobalResource</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UPlan.Common.Utility\UPlan.Common.Utility.csproj">
+      <Project>{f8d29780-ea14-4d63-9cfd-85d683a41da8}</Project>
+      <Name>UPlan.Common.Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UPlan.Controls.UIBase\UPlan.Controls.UIBase.csproj">
+      <Project>{1ffdd45f-9ffe-4f2d-b34f-e8d95f9d9bed}</Project>
+      <Name>UPlan.Controls.UIBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UPlan.Frame.DockForm\UPlan.Frame.DockForm.csproj">
+      <Project>{190a2d7b-731a-4923-90dd-bc34bf679ee4}</Project>
+      <Name>UPlan.Frame.DockForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UPlan.Frame.Interface\UPlan.Frame.Interface.csproj">
+      <Project>{f80d09af-63c7-4459-9fca-298be14db218}</Project>
+      <Name>UPlan.Frame.Interface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\Program.cs\obj\Debug\Program.cs.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\Program.cs\obj\Debug\Program.cs.Properties.Resources.resources
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\Program.cs\obj\Debug\Program.cs.csproj.GenerateResource.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\Program.cs\obj\Debug\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\Program.cs\obj\Debug\Program.cs.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\Program.cs\obj\Debug\Program.cs.Properties.Resources.resources
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\Program.cs\obj\Debug\Program.cs.csproj.GenerateResource.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\Program.cs\obj\Debug\Program.cs.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.DockContent.resources
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.DragForm.resources
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.FloatWindow.resources
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.Strings.resources
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.csproj.GenerateResource.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.DockContent.resources
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.DragForm.resources
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.FloatWindow.resources
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.Strings.resources
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.csproj.GenerateResource.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.DockForm\obj\Debug\UPlan.Frame.DockForm.Resources.resources

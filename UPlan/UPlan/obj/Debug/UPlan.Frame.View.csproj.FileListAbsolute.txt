@@ -1,0 +1,9 @@
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan\obj\Debug\UPlan.Frame.View.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan\obj\Debug\UPlan.Frame.View.MainForm.resources
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan\obj\Debug\UPlan.Frame.View.csproj.GenerateResource.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan\obj\Debug\UPlan.Frame.View.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan\obj\Debug\UPlan.Frame.View.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan\obj\Debug\UPlan.Frame.View.LoadingForm.resources
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan\obj\Debug\UPlan.Frame.View.MainForm.resources
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan\obj\Debug\UPlan.Frame.View.csproj.GenerateResource.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan\obj\Debug\UPlan.Frame.View.csproj.CoreCompileInputs.cache

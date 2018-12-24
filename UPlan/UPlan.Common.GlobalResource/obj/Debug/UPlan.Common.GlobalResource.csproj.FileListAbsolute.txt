@@ -1,0 +1,13 @@
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Common.GlobalResource\bin\Debug\UPlan.Common.GlobalResource.dll
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Common.GlobalResource\bin\Debug\UPlan.Common.GlobalResource.pdb
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.dll
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.pdb
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.GlobalResource\bin\Debug\UPlan.Common.GlobalResource.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.GlobalResource\bin\Debug\UPlan.Common.GlobalResource.pdb
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.dll
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.pdb
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.GlobalResource.resources
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Common.GlobalResource\obj\Debug\UPlan.Common.GlobalResource.csproj.GenerateResource.cache

@@ -1,0 +1,4 @@
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Frame.Interface\obj\Debug\UPlan.Frame.Interface.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Source\Repos\UPlan\UPlan.Frame.Interface\obj\Debug\UPlan.Frame.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Interface\obj\Debug\UPlan.Frame.Interface.csprojAssemblyReference.cache
+C:\Users\Administrator.DS-20160128QDBS\Desktop\UPlan\UPlan.Frame.Interface\obj\Debug\UPlan.Frame.Interface.csproj.CoreCompileInputs.cache
